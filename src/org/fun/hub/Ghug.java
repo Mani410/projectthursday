@@ -8,5 +8,9 @@ public class Ghug {
 	public void Test2() {
 		System.out.println("ts2");
 	}
+	private void Testgit() {
+		System.out.println("TGIT");
+
+	}
 
 }
