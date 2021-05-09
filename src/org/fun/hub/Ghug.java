@@ -15,11 +15,13 @@ public class Ghug {
 		System.out.println("Login");
 		int b= 20;
 		System.out.println(b);
-
-	int c= 30;
-	System.out.println("Ready to work");
-
-	}
-	
+		int c= 30;
+		System.out.println("Ready to work");
+		int d=40;
+		System.out.println("Back to work");
 }
+}
+
+
+	
 
