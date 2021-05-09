@@ -10,7 +10,10 @@ public class Ghug {
 	}
 	private void Testgit() {
 		System.out.println("TGIT");
-
-	}
-
+		int a=10;
+		System.out.println(a);
 }
+}
+
+
+
