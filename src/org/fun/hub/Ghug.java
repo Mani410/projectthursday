@@ -12,6 +12,9 @@ public class Ghug {
 		System.out.println("TGIT");
 		int a=10;
 		System.out.println(a);
+		System.out.println("Login");
+		int b= 20;
+		System.out.println(b);
 }
 }
 
