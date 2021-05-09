@@ -7,9 +7,24 @@ public class Ghug {
 	}
 	public void Test2() {
 		System.out.println("ts2");
+<<<<<<< HEAD
 
 	int c= 30;
 	System.out.println("Ready to work");
 	
 	}
+=======
+	}
+	private void Testgit() {
+		System.out.println("TGIT");
+		int a=10;
+		System.out.println(a);
+		System.out.println("Login");
+		int b= 20;
+		System.out.println(b);
 }
+>>>>>>> f3b76f42ac64a4c0d934b8c24e6cefd011137419
+}
+
+
+
