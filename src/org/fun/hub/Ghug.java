@@ -7,6 +7,9 @@ public class Ghug {
 	}
 	public void Test2() {
 		System.out.println("ts2");
-	}
 
+	int c= 30;
+	System.out.println("Ready to work");
+	
+	}
 }
