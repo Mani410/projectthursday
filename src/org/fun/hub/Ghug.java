@@ -15,6 +15,8 @@ public class Ghug {
 		System.out.println("Login");
 		int b= 20;
 		System.out.println(b);
+		int d=40;
+		System.out.println("Back to work");
 }
 }
 
